@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://honofanumiwo.b-cdn.net/sitemap.xml
